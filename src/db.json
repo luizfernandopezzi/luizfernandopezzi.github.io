@@ -1,0 +1,120 @@
+{
+  "english": {
+    "homePage": {
+      "title": "Hello, I'm",
+      "description": "Full Stack Developer"
+    },
+    "aboutPage": {
+      "title": "About Me",
+      "description": "",
+      "skills": "Skills",
+      "curriculum": "Curriculum"
+    },
+    "projectsPage": {
+      "title": "Projects",
+      "projects": [
+        {
+          "title": "Project",
+          "description": "Description",
+          "url": "https://github.com/luizfernandopezzi",
+          "img": "fotoperfil.png"
+        }
+      ]
+    },
+    "contactPage": {
+      "title": "Contact Me",
+      "contacts": [
+        {
+          "class": "fab fa-linkedin-in",
+          "url": "https://www.linkedin.com/in/luizfernandopezzi/"
+        },
+        {
+          "class": "fab fa-github",
+          "url": "https://github.com/luizfernandopezzi"
+        },
+        {
+          "class": "fa fa-code",
+          "url": "https://vercel.com/luizfernandopezzi/"
+        },
+        {
+          "class": "far fa-envelope",
+          "url": "mailto:luizfpezzi@gmail.com"
+        }
+      ],
+      "form": {
+        "name": "Your name",
+        "email": "Your e-mail",
+        "message": "Write me a message!",
+        "button": "Send"
+      }
+    }
+  },
+  "portuguese": {
+    "homePage": {
+      "title": "Olá, eu sou o",
+      "description": "Desenvolvedor Full Stack"
+    },
+    "aboutPage": {
+      "title": "Sobre Mim",
+      "description": "Meu nome é Luiz Fernando Pezzi e gostaria de dizer: \"Hello World\"! Atualmente trabalho como Engenheiro do Produto, sou mestrando em Engenharia na Universidade Federal do Rio Grande do Sul e pós graduando em Desenvolvimento Full Stack na PUCRS. Estou construindo meu caminho para me tornar um excelente Full Stack Developer, quero ser fora da curva! Eu amo codificar e fazer as coisas funcionarem! Na maioria das vezes estou depurando, rsrs... no entanto, quanto mais eu aprendo, mais eu gosto disso tudo! Precisoo queridinho! Entre os skills em desenvolvimento estão: ReactJS, VueJS, NodeJS, NextJS, Jest, SQL e TypeScript (caminho de aprendizado alucinante, mas ferramenta realmente excelente!). Curiosidade: eu realmente amo aprender novos assuntos e sou muito curioso sobre como as coisas funcionam!",
+      "skills": "Habilidades",
+      "curriculum": "Currículo"
+    },
+    "projectsPage": {
+      "title": "Projetos",
+      "projects": [
+        {
+          "title": "iStudies",
+          "description": "iStudy é um gerenciador de estudos com temporizador. Desenvolvido com React JS, TypeScript, CSS Modules e UIID.",
+          "url": "https://i-study-luizfpezzi.vercel.app/",
+          "img": "istudies.png"
+        },
+        {
+          "title": "Scitech Finance",
+          "description": "Acompanhe o status dos seguintes ativos do mercado financeiro americano: ADBE, AMZN, AAPL, FB, MSFT, SBUX, TWTR. Stack: NodeJS, Figma, ReactJS, Recharts, Google Firebase, React Fast Marquee e IEX Cloud API.",
+          "url": "https://scitech-finance.vercel.app/",
+          "img": "scitechfinance.png"
+        },
+        {
+          "title": "Avanti Store",
+          "description": "E-Commerce layout. Stack: JS, CSS, HTML, jQuery, NodeJS, ExpressJS.",
+          "url": "https://avanti-store.vercel.app//",
+          "img": "scitechfinance.png"
+        },
+        {
+          "title": "Rede Alumni",
+          "description": "Projeto desenvolvido utilizado HTML, CSS e JS para busca por item em database com diversas opções de filtro.",
+          "url": "https://rede-alumni.vercel.app/",
+          "img": "redealumni.png"
+        }
+      ]
+    },
+    "contactPage": {
+      "title": "Meus contatos",
+      "contacts": [
+        {
+          "class": "fab fa-linkedin-in",
+          "url": "https://www.linkedin.com/in/luizfernandopezzi/"
+        },
+        {
+          "class": "fab fa-github",
+          "url": "https://github.com/luizfernandopezzi"
+        },
+        {
+          "class": "fa fa-code",
+          "url": "https://vercel.com/luizfernandopezzi/"
+        },
+        {
+          "class": "far fa-envelope",
+          "url": "mailto:luizfpezzi@gmail.com"
+        }
+      ],
+      "form": {
+        "name": "Seu nome",
+        "email": "Seu e-mail",
+        "message": "Me envie uma mensagem!",
+        "button": "Enviar"
+      }
+    }
+  }
+}
