@@ -11,7 +11,7 @@
         <a :href="project.url" target="_blank">
           <img
             class="img-project"
-            :src="require(`./${project.img}`)"
+            :src="require(`../assets/${project.img}`)"
             :alt="project.title"
           />
         </a>

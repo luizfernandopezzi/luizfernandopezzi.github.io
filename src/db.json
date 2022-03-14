@@ -6,7 +6,7 @@
     },
     "aboutPage": {
       "title": "About Me",
-      "description": "",
+      "description": "My name is Luiz Fernando Pezzi, I'm 30 years old and I'm Brazilian from Caxias do Sul/RS. Graduated in Mechanical Engineering from the Federal University of Rio Grande do Sul (UFRGS) in 2017, I am currently a Master's student in Engineering at the same institution and I work as a Product Engineer at Randon Implementos. My first contact with technology was during the first semester of my undergraduate degree in Engineering, when I took the “Introduction to Programming” course. I had the opportunity to learn object-oriented programming through the C language and that's when my first “Hello World!” was born. Since then, technology has always been present in my academic, professional and personal life, but in a timid way and almost always focused on creating codes that solve engineering problems. Curious, studious and 'life long learner' by nature, in 2020 I decided to enroll on the Alura platform and start to really dive into the technology universe, in order to discover how current applications are developed and what technology is behind. What I also discovered was the desire to live the tec universe daily and professionally! I recently chose to attend my first postgraduate course in Full Stack Development at PUCRS and I am looking for my first professional opportunity in the area of ​​web development.",
       "skills": "Skills",
       "curriculum": "Curriculum"
     },
@@ -14,10 +14,28 @@
       "title": "Projects",
       "projects": [
         {
-          "title": "Project",
-          "description": "Description",
-          "url": "https://github.com/luizfernandopezzi",
-          "img": "fotoperfil.png"
+          "title": "iStudies",
+          "description": "iStudy is a timer study manager. Developed with React JS, TypeScript, CSS Modules and UIID.",
+          "url": "https://i-study-luizfpezzi.vercel.app/",
+          "img": "istudies.png"
+        },
+        {
+          "title": "Scitech Finance",
+          "description": "Follow the status of the following American financial market assets: ADBE, AMZN, AAPL, FB, MSFT, SBUX, TWTR. Stack: NodeJS, Figma, ReactJS, Recharts, Google Firebase, React Fast Marquee e IEX Cloud API.",
+          "url": "https://scitech-finance.vercel.app/",
+          "img": "scitechfinance.png"
+        },
+        {
+          "title": "Avanti Store",
+          "description": "E-Commerce layout. Stack: JS, CSS, HTML, jQuery, NodeJS, ExpressJS.",
+          "url": "https://avanti-store.vercel.app//",
+          "img": "scitechfinance.png"
+        },
+        {
+          "title": "Rede Alumni",
+          "description": "Developed project using HTML, CSS and JS to search for item in database with several filter options.",
+          "url": "https://rede-alumni.vercel.app/",
+          "img": "redealumni.png"
         }
       ]
     },
@@ -56,7 +74,7 @@
     },
     "aboutPage": {
       "title": "Sobre Mim",
-      "description": "Meu nome é Luiz Fernando Pezzi e gostaria de dizer: \"Hello World\"! Atualmente trabalho como Engenheiro do Produto, sou mestrando em Engenharia na Universidade Federal do Rio Grande do Sul e pós graduando em Desenvolvimento Full Stack na PUCRS. Estou construindo meu caminho para me tornar um excelente Full Stack Developer, quero ser fora da curva! Eu amo codificar e fazer as coisas funcionarem! Na maioria das vezes estou depurando, rsrs... no entanto, quanto mais eu aprendo, mais eu gosto disso tudo! Precisoo queridinho! Entre os skills em desenvolvimento estão: ReactJS, VueJS, NodeJS, NextJS, Jest, SQL e TypeScript (caminho de aprendizado alucinante, mas ferramenta realmente excelente!). Curiosidade: eu realmente amo aprender novos assuntos e sou muito curioso sobre como as coisas funcionam!",
+      "description": "Meu nome é Luiz Fernando Pezzi, tenho 30 anos e sou brasileiro natural de Caxias do Sul/RS. Formado em Engenharia Mecânica pela Universidade Federal do Rio Grande do Sul (UFRGS) em 2017, atualmente sou mestranda em Engenharia na mesma instituição e atuo como Engenheiro do Produto. Meu primeiro contato com programação e tecnologia foi no primeiro semestre da graduação, quando cursei a disciplina de “Introdução à Programação”. Tive a oportunidade de aprender programação orientada a objetos através da linguagem C e foi aí que meu primeiro “Hello World!” nasceu. Desde então, a tecnologia sempre esteve presente na minha vida acadêmica, profissional e pessoal, mas de forma tímida e quase sempre focada na criação de códigos que resolvessem problemas de engenharia. Curioso, estudioso e 'lifelong learner' por natureza, em 2020 decidi me inscrever na plataforma Alura e começar a mergulhar de verdade no universo da tecnologia, para descobrir como as aplicações atuais são desenvolvidas e quais tecnologias estão por trás do mundo tec! O que também acabei descobrindo foi a vontade de viver o universo da programação diariamente e profissionalmente! Recentemente escolhi fazer minha primeira pós-graduação em Desenvolvimento Full Stack na PUCRS.",
       "skills": "Habilidades",
       "curriculum": "Currículo"
     },

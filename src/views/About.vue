@@ -15,7 +15,7 @@
       <p>HTML, CSS, JavaScript, ReactJS, VueJS, NodeJS e Python.</p>
     </article>
 
-    <a href="./01luizfernandopezzi.pdf" target="_blank" download>
+    <a href="../assets/01luizfernandopezzi.pdf" target="_blank" download>
       <button>Download {{ this.getterLanguage.aboutPage.curriculum }}</button>
     </a>
   </section>

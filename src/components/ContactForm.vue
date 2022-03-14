@@ -1,7 +1,7 @@
 <template>
   <form
     class="email-form"
-    action="https://formspree.io/f/myylppve"
+    action="https://formspree.io/f/mgedzorr"
     method="POST"
   >
     <label for="name">

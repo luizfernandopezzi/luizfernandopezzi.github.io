@@ -9,7 +9,7 @@
     </article>
     <img
       class="profile-photo"
-      src="./fotoperfil.png"
+      src="../assets/fotoperfil.png"
       alt="Profile photo"
     />
   </section>
