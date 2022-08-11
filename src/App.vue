@@ -50,7 +50,7 @@ export default {
 
   methods: {
     handleView() {
-      this.mobileView = window.innerWidth <= 700;
+      this.mobileView = window.innerWidth <= 720;
     },
   },
   
@@ -78,11 +78,15 @@ a:hover {
   text-decoration: none;
   color: #79cfff;
 }
+
+html {
+  font-size: 93.75%;
+}
+
 body {
-  font-size: 16px;
   color: #4f4f4f;
   font-family: "Poppins", sans-serif;
-  background: rgb(90, 13, 92);
+  background: rgb(95 122 173);
 }
 
 button {
@@ -115,7 +119,7 @@ button:active {
 .container-component {
   background-color: white;
   width: 85vw;
-  height: 70vh;
+  border-radius: 2rem;
 }
 
 h1 {
@@ -134,7 +138,11 @@ h2 {
   opacity: 0;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 720px) {
+  html {
+    font-size: 87.5%;
+  }
+
   .container-component {
     height: 100%;
   }

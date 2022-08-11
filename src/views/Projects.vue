@@ -38,7 +38,6 @@ export default {
 <style scoped>
 .container-projects {
   padding: 2vh;
-  height: 70vh;
   text-align: center;
 }
 
@@ -65,7 +64,7 @@ h4 {
   padding: 0.5rem;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 720px) {
   .container-projects {
     height: 100%;
   }

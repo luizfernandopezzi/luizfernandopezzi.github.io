@@ -6,7 +6,7 @@
     },
     "aboutPage": {
       "title": "About Me",
-      "description": "My name is Luiz Fernando Pezzi, I'm 30 years old and I'm Brazilian from Caxias do Sul/RS. Graduated in Mechanical Engineering from the Federal University of Rio Grande do Sul (UFRGS) in 2017, I am currently a Master's student in Engineering at the same institution and I work as a Product Engineer at Randon Implementos. My first contact with technology was during the first semester of my undergraduate degree in Engineering, when I took the “Introduction to Programming” course. I had the opportunity to learn object-oriented programming through the C language and that's when my first “Hello World!” was born. Since then, technology has always been present in my academic, professional and personal life, but in a timid way and almost always focused on creating codes that solve engineering problems. Curious, studious and 'life long learner' by nature, in 2020 I decided to enroll on the Alura platform and start to really dive into the technology universe, in order to discover how current applications are developed and what technology is behind. What I also discovered was the desire to live the tec universe daily and professionally! I recently chose to attend my first postgraduate course in Full Stack Development at PUCRS and I am looking for my first professional opportunity in the area of ​​web development.",
+      "description": "My name is Luiz Fernando Pezzi, I'm 30 years old and I'm Brazilian from Caxias do Sul/RS. Graduated in Mechanical Engineering, I am currently a post degree student of Full Stack Development of PUC-RS and work as a Product Engineer at Randon and as freelancer Front-End Developer. My first contact with programming was during the first semester of my undergraduate degree in Engineering, when I took the “Introduction to Programming” course. I had the opportunity to learn object-oriented programming through the C++ language and that's when my first “Hello World!” was born. Since then, programming and technology has always been present in my academic, professional and personal life, but in a timid way and almost always focused on creating codes that solve engineering problems. Curious, studious and a 'life long learner' by nature, in 2020 I decided to enroll in several programming courses and start to really dive into the programming universe in order to discover how current applications are developed and what technology is behind. What I also discovered was the desire to live this universe daily and grow a career in this subject! I believe that this is the perfect opportunity for me to stay up to date on new technologies and also be involved in creating new knowledge, bring ideas and take initiatives to contribute to the growth of the company! I am a very innovative person that seeks evolution and thus, really want to be part of it!",
       "skills": "Skills",
       "curriculum": "Curriculum"
     },
@@ -20,7 +20,7 @@
           "img": "istudies.png"
         },
         {
-          "title": "Scitech Finance",
+          "title": "iStocks",
           "description": "Follow the status of the following American financial market assets: ADBE, AMZN, AAPL, FB, MSFT, SBUX, TWTR. Stack: NodeJS, Figma, ReactJS, Recharts, Google Firebase, React Fast Marquee e IEX Cloud API.",
           "url": "https://scitech-finance.vercel.app/",
           "img": "scitechfinance.png"
@@ -32,7 +32,7 @@
           "img": "scitechfinance.png"
         },
         {
-          "title": "Rede Alumni",
+          "title": "Petshop Apointment",
           "description": "Developed project using HTML, CSS and JS to search for item in database with several filter options.",
           "url": "https://rede-alumni.vercel.app/",
           "img": "redealumni.png"
@@ -88,7 +88,31 @@
           "img": "istudies.png"
         },
         {
-          "title": "Scitech Finance",
+          "title": "iStocks",
+          "description": "Acompanhe o status dos seguintes ativos do mercado financeiro americano: ADBE, AMZN, AAPL, FB, MSFT, SBUX, TWTR. Stack: NodeJS, Figma, ReactJS, Recharts, Google Firebase, React Fast Marquee e IEX Cloud API.",
+          "url": "https://scitech-finance.vercel.app/",
+          "img": "scitechfinance.png"
+        },
+        {
+          "title": "Avanti Store",
+          "description": "E-Commerce layout. Stack: JS, CSS, HTML, jQuery, NodeJS, ExpressJS.",
+          "url": "https://avanti-store.vercel.app//",
+          "img": "scitechfinance.png"
+        },
+        {
+          "title": "Petshop Apointment",
+          "description": "Project developed using React to register and schedule a Petshop apointments. The application has features such as a database item search with several filter and sorting options.",
+          "url": "https://pet-shop-appointments.vercel.app/",
+          "img": "redealumni.png"
+        },
+        {
+          "title": "iStudies",
+          "description": "iStudy é um gerenciador de estudos com temporizador. Desenvolvido com React JS, TypeScript, CSS Modules e UIID.",
+          "url": "https://i-study-luizfpezzi.vercel.app/",
+          "img": "istudies.png"
+        },
+        {
+          "title": "iStocks",
           "description": "Acompanhe o status dos seguintes ativos do mercado financeiro americano: ADBE, AMZN, AAPL, FB, MSFT, SBUX, TWTR. Stack: NodeJS, Figma, ReactJS, Recharts, Google Firebase, React Fast Marquee e IEX Cloud API.",
           "url": "https://scitech-finance.vercel.app/",
           "img": "scitechfinance.png"

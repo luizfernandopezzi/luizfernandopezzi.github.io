@@ -7,11 +7,11 @@
         <h2>{{ getterLanguage.homePage.description }}</h2>
       </div>
     </article>
-    <img
-      class="profile-photo"
-      src="../assets/fotoperfil.png"
-      alt="Profile photo"
-    />
+        <img
+          class="profile-photo"
+          src="../assets/fotoperfil.jpg"
+          alt="Profile photo"
+        />
   </section>
 </template>
 
@@ -45,21 +45,23 @@ export default {
 }
 .profile-photo {
   height: 60vh;
+  border-radius: 2rem;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 720px) {
   .home {
     flex-direction: column;
   }
   .profile-photo {
-    max-height: 50vh;
+    max-height: 40vh;
     padding: 2vh;
+    border-radius: 2rem;
   }
   .hello {
     text-align: center;
   }
   .title {
-    height: 40vh;
+    height: 20vh;
     justify-content: center;
   }
 }
